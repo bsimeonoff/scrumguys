@@ -22,7 +22,7 @@ Legal information about Drupal:
  * Learn about the Drupal trademark and logo policy:
    http://drupal.com/trademark
 
-CONFIGURATION AND FEATURES
+CONFIGURATION AND  FEATURES
 --------------------------
 
 Drupal core (what you get when you download and extract a drupal-x.y.tar.gz or
